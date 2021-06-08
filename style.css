@@ -1,0 +1,73 @@
+body {
+  font-family: 'Acme', sans-serif;
+ background-image: url("background.jpg");
+ background-size: cover;
+ box-sizing: border-box;
+}
+
+.logo{
+  width: 25%;
+}
+
+.quadrato{
+  width: 70%;
+  height: auto;
+  background-color: rgba(8, 8, 8, 0.6);
+  border-radius: 8px;
+  padding: 40px;
+  margin: auto;
+}
+
+header > div{
+  text-align: center;
+}
+
+.titolo{
+  color:#00dd11;
+}
+
+.barra{
+  width: 90%;
+  height: 25%;
+  background-color: #00dd11;
+  margin: auto;
+  padding: 10px;
+}
+
+section{
+  color: white;
+  margin-top: 0px;
+}
+
+h3{
+  display: inline-block;
+}
+
+h4{
+  margin: 2px;
+}
+
+.utente{
+  margin-top: 10px;
+}
+
+.Gino22{
+  height: 25px;
+  border-radius: 7px;
+  width: 40%;
+  background-color: orange;
+}
+
+.Mike24{
+  height: 25px;
+  border-radius: 7px;
+  width: 60%;
+  background-color: green;
+}
+
+.Fede154{
+  height: 25px;
+  border-radius: 7px;
+  width: 25%;
+  background-color: red;
+}
